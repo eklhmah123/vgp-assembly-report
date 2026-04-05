@@ -242,10 +242,4 @@ The assembly meets VGP quality standards and is suitable for downstream analyses
 
 
 
-**Date:** April 2026
 
----
-
-## 📜 License
-
-This report is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
