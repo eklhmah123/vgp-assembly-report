@@ -83,6 +83,8 @@ The three HiFi files were organized into a collection named **HiFi Reads Collect
 - K-mer size: 31
 - Input: HiFi Reads Collection
 - Output: 3 separate `.meryldb` databases
+  <img width="1600" height="1333" alt="Image 2026-04-05 at 9 34 51 PM" src="https://github.com/user-attachments/assets/e2c0a5fb-d315-490b-b172-425efca2adc2" />
+
 
 #### 2.2 Merging Databases
 
@@ -112,6 +114,7 @@ The three HiFi files were organized into a collection named **HiFi Reads Collect
 - Transformed log plot - Model-fitted distribution (log scale)
 - Summary - Genome size, heterozygosity, repeat estimates
 - Model parameters - Statistical fit parameters
+<img width="1600" height="1600" alt="Image 2026-04-05 at 9 34 51 PM (1)" src="https://github.com/user-attachments/assets/5ff458eb-37e1-43de-911c-49ec432db7c2" />
 
 ---
 
@@ -155,7 +158,9 @@ Hifiasm produced the following files:
 
 **✅ Interpretation:** The assembly shows 100% BUSCO completeness with no fragmentation or missing genes - excellent quality!
 
-![BUSCO Results](busco_summary_hap1.png)
+<img width="2048" height="1536" alt="busco_summary_hap1" src="https://github.com/user-attachments/assets/10017691-6f61-4065-b3b2-dc31c095a059" />
+<img width="1600" height="1200" alt="mage 2026-04-05 at 9 34 50 PM" src="https://github.com/user-attachments/assets/02b3c1d1-ab57-4b4e-9370-e1da82985515" />
+
 
 ---
 
